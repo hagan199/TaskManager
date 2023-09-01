@@ -1,66 +1,218 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<a name="readme-top"></a>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<div align="center">
+  <h2><b>Task Management</b></h2>
+  <br>
+   <h1><b>Readme</b></h1>
 
-## About Laravel
+</div>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<!-- TABLE OF CONTENTS -->
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<details>
+  <summary>
+    <h1>📗 Table of Contents</h1>
+  </summary>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
+</details>
 
-## Learning Laravel
+# Cryptocurrencies Tracking Application <a name="about-project"></a>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Task management is the process of planning, organizing, tracking, and executing tasks or activities to achieve specific goals or objectives efficiently and effectively. It is a fundamental component of project management and everyday life, enabling individuals and teams to stay organized, prioritize work, and meet deadlines. Here are some key aspects and the mean of task management:
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## 🛠 Built With <a name="built-with"></a>
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+### Tech Stack <a name="tech-stack"></a>
 
-## Laravel Sponsors
+<details>
+    <summary>Client</summary>
+    <ul>
+    <li><a href="https://laravel.com/">Laravel</a></li>
+         <li><a href="https://laravel.com/">JavaScript</a></li>
+    <li>Html</li>
+       <li>CSS</li>
+    </ul>
+</details>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-### Premium Partners
+<!-- Features -->
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+### Key Features <a name="key-features"></a>
 
-## Contributing
+- **[Cryptocurrency dashboard Page]**
+- **[Cryptocurrency details Page]**
+- **[Search box to look for a particular crypto item]**
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Code of Conduct
+## 💻 Getting Started <a name="getting-started"></a>
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+### Setup
 
-## Security Vulnerabilities
+Clone this repository to your desired folder:
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+1 - Go to the <> Code section in the repository. <br></br>
+2 - Select the https tab and copy the url provided. <br></br>
+3 - Use the git clone command in the root of the folder where you will save the project.<br></br>
 
-## License
+### Prerequisites
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+In order to run this project you need:
+
+- Visual Studio Code
+- Git
+- Composer
+- Be sure to fill in your database details in your `.env` file before running the migrations:
+- Run php artisan db:seed --class=ProjectsTableSeeder
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Install
+
+
+Clone the project repository by running the command below if you use SSH
+
+```bash
+git clone git@github.com:codeaamirkalimi/Task-Management-System-Laravel.git
+```
+
+If you use https, use this instead
+
+```bash
+git clone https://github.com/hagan199/TaskManager.git
+```
+
+After cloning, run:
+
+```bash
+composer install
+```
+
+```bash
+npm install
+```
+
+Duplicate `.env.example` and rename it `.env`
+
+Then run:
+
+```bash
+php artisan key:generate
+```
+
+```bash
+php artisan migrate
+```
+
+And finally, start the application:
+
+```bash
+php artisan serve
+```
+
+and visit [http://localhost:8000](http://localhost:8000) to see the application in action.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Usage <a name="usage"></a>
+
+To run the project, execute the following command in your terminal (inside the project folder):
+
+- npm install
+- npm start
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Run Tests <a name="run-tests"></a>
+
+To run the the tests, you have to run the following command in the console (inside the project folder):
+
+- npm install
+
+And then you will have to run the following command in the console (inside the project folder):
+
+- npm test
+
+You will see the outcome in the console
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Deployment <a name="deployment"></a>
+
+To deploy this project in a local enviroment, you will have to run:
+
+- npm start
+
+Then, you will see the project run in a local host: 3000.
+Otherwise, you can see the project deployed in Render in the live demo.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+👤 **Emmanuel Hagan**
+
+- GitHub: [@hagan199](https://github.com/hagan199)
+- LinkedIn: [@emmanuel-hagan-26219a95](https://www.linkedin.com/in/emmanuel-hagan-26219a95/)
+- Twitter: [@EmmaHagan23](https://twitter.com/EmmaHagan23)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [1] **Create task (info to save: task name, priority, timestamps)**
+- [2] **Edit task**
+- [3] **Delete task**
+- [4] **Reorder tasks with drag and drop in the browser. Priority should automatically be updated based on this. #1 priority goes at top, #2 next down and so on.**
+- [5] **Tasks should be saved to a mysql table.**
+- [6] **Add project functionality to the tasks. User should be able to select a project from a dropdown and only view tasks associated with that project..**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project feel free to let me know via Linkedin or Github, also don't forget to leave your ⭐️. I will always appreciate your comments.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
